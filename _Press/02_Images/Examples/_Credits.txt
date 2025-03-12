@@ -1,0 +1,14 @@
+Example scripts
+
+All images © Karamba3D
+01_BucklingBridge
+01_HighRiseSystems
+01_InputSurfacesAsShell
+01_ParametricTruss
+01_SimpleBeam
+03_Optimization_InclinedColumnPositions
+03_Optimization_ShapeIrregularStructure
+04_LargeDeformationTriangularGridshell
+04_LargeDeformationVoronoiGridshell
+05_ProjectedVoronoiPatternGridshell
+05_SmoothCrossSectionHeightsFromMoments
